@@ -1,4 +1,6 @@
-﻿namespace web.core
+using System;
+
+namespace web.core
 {
     public interface IDomain
     {
